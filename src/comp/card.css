@@ -1,0 +1,17 @@
+.card_container > img {
+  width: 17rem;
+  border-radius: 1rem;
+}
+
+.card_container {
+  margin-top: 1rem;
+  width: 17rem;
+  height: fit-content;
+  background: #1b1b1b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1.4rem;
+  flex-direction: column;
+  color: #f1ffff;
+}
